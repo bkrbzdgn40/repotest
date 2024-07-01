@@ -5,6 +5,11 @@ cd .. geri git
 cd klasöre gir
 del dosya sil
 rmdir klasör sil
-git status dosyanın gitle alakasını öğren
-git init gitle baglanti kurar
+git status dosyanın gitle alakasını öğren / git bash
+git init gitle baglanti kurar / git bash
+touch dosya.uzanti / git bash
+rm -rf klasör sil / git bash
+git commit -m "mesaj yaz" / git bash
+git add . her şeyi ekler / git bash
+touch .gitignore
 
