@@ -1,0 +1,10 @@
+dir : listele
+mkdir : yeni klasör
+copy NUL dosyaadi: dosya oluştur
+cd .. geri git
+cd klasöre gir
+del dosya sil
+rmdir klasör sil
+git status dosyanın gitle alakasını öğren
+git init gitle baglanti kurar
+
