@@ -12,4 +12,18 @@ rm -rf klasör sil / git bash
 git commit -m "mesaj yaz" / git bash
 git add . her şeyi ekler / git bash
 touch .gitignore
+git branch / git branch yenidallanma / git switch yenidallanma : master bölümünden yeni dala geçtik. Genelde deneysel amaçlı veya yeni özellik ekleneceği zaman kulalnılır.
 
+git merge yenidal / yan dalı ana dala yeni bir commit ile birleştirir
+
+git checkout commitkodu / eski bir commit e döner
+tekrar sona gitmek için git switch master
+oradan yeni dal için git switch yenibranch
+
+git reset commitkodu : commiti siler
+
+git reset --hard commitkodu : içeriği de siler
+
+git revert commitkodu : geri alır yeni commit oluşturur
+
+git diff : değişiklikleri gösterir
