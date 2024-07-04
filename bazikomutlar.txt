@@ -30,6 +30,10 @@ git revert commitkodu : geri alır yeni commit oluşturur
 
 git diff : değişiklikleri gösterir
 
+git fetch origin master : github ile karşılaştırıp kontrol eder
+
+git pull origin master : githubdaki değişiklikleri direk alır
+
 git remote add origin adres
 
 git push -u origin "branch adı"
