@@ -6,6 +6,8 @@ cd klasöre gir
 del dosya sil
 rmdir klasör sil
 git status dosyanın gitle alakasını öğren / git bash
+git config --global user.name "ad"
+git config --global user.mail "mail"
 git init gitle baglanti kurar / git bash
 touch dosya.uzanti / git bash
 rm -rf klasör sil / git bash
@@ -27,3 +29,10 @@ git reset --hard commitkodu : içeriği de siler
 git revert commitkodu : geri alır yeni commit oluşturur
 
 git diff : değişiklikleri gösterir
+
+git remote add origin adres
+
+git push -u origin "branch adı"
+
+
+
